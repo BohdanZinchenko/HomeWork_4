@@ -1,0 +1,9 @@
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\PMAcademy\HomeWork_4\HomeWork_4\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORWRHb8JPgGYSeQAdqF0wiqwcqW+C9lIqrcsfC55PqsCnfheZSWSgBgfBUEzIyVrFJfe3C3fJcOukNlGtqYn0w==",
+  "success": true,
+  "projectFilePath": "D:\\PMAcademy\\HomeWork_4\\HomeWork_4\\Task_1\\Task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Bogdan\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
